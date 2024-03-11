@@ -1,5 +1,7 @@
-# TODO APP
-<img src="https://www.sapphiresolutions.net/images/django_development/images/django_development_banner.svg"><br>
+# Django ToDo APP
+
+<a href="https://ibb.co/MB4p9RP"><img src="https://i.ibb.co/GHLkFVC/Screenshot-from-2024-03-11-17-13-53.png" alt="Screenshot-from-2024-03-11-17-13-53" border="0"></a>
+
 ## Introduction
 
 Welcome to ToDo App,This todo app was built by using the Django web framework, which has the ability to insert, update and delete the task.
