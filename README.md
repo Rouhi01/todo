@@ -13,7 +13,7 @@ Welcome to ToDo App,This todo app was built by using the Django web framework, w
 
    ```bash
    git clone https://github.com/Rouhi01/todo.git
-   cd todo_main
+   cd todo
    ```
 
 2. Create a virtual environment and activate it:
